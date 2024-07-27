@@ -62,6 +62,7 @@ Some of the questions and answers in these flashcard decks are derived from the 
 * [Java Interview Questions](https://www.geeksforgeeks.org/java-interview-questions/)
 * [Spring Boot Interview Questions](https://www.geeksforgeeks.org/spring-boot-interview-questions-and-answers/)
 * [The SOLID Principles, Explained with Motivational Posters](https://www.globalnerdy.com/2009/07/15/the-solid-principles-explained-with-motivational-posters/)
+* [LinkedIn Skill Assessment Quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/tree/main)
 
 ## Contributing
 
